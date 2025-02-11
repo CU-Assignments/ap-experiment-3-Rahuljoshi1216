@@ -7,7 +7,7 @@
 
 ### Code:
 class Solution {
-  public:
+public:
     void printList(Node *head) {
         Node* temp = head;
         while (temp) {
